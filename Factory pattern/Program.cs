@@ -12,7 +12,7 @@ namespace Factory_pattern
     {
         public ConcreteBusinessObject1(string name)
         {
-
+            //doSomething
         }
 
         public void execute()
